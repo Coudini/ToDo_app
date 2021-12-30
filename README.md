@@ -28,11 +28,13 @@ https://tamk-4a00ez62-3001-group04.herokuapp.com
 ### Folders page
 <p float="left">
  <img width="200" src="https://user-images.githubusercontent.com/56744277/147751070-5a1f4e80-4829-4d95-9292-17322afd55aa.png">
+ <img width="200" src="https://user-images.githubusercontent.com/56744277/147751389-585d7ec2-793b-4df8-84f9-5492bd24180f.png">
+ <img width="200" src="https://user-images.githubusercontent.com/56744277/147751401-49dc7d64-9959-45f7-ba67-6b6aaaa9e7ea.png">
  <img width="200" src="https://user-images.githubusercontent.com/56744277/147751105-5ee33172-0ba5-4e0a-9504-4a3f092a4e02.png">
 </p>
 
 ### Settings page
 <p float="left">
- <img width="400" src="https://user-images.githubusercontent.com/56744277/147751174-643696c9-47b7-4999-a397-abe3d94f48ec.png">
+ <img width="200" src="https://user-images.githubusercontent.com/56744277/147751174-643696c9-47b7-4999-a397-abe3d94f48ec.png">
  <img width="200" src="https://user-images.githubusercontent.com/56744277/147751193-cf046056-d276-4303-abf1-4bfa5168b0e0.png">
 </p>
