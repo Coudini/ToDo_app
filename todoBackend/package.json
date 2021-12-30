@@ -1,0 +1,26 @@
+{
+  "name": "todobackend",
+  "version": "1.0.0",
+  "description": "School todo project backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apluri/todoBackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Apluri/todoBackend/issues"
+  },
+  "homepage": "https://github.com/Apluri/todoBackend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonschema": "^1.4.0",
+    "mysql": "^2.18.1"
+  }
+}
